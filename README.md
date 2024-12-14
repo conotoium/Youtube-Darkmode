@@ -5,6 +5,10 @@
 > Source code is available in the directory, feel free to copy paste <br>
 > Always check code before using it on your system.
 
+> [!INFORMATION]
+> This may make youtube look slightly weird, But Im just here to fix the main issue.<br>
+> I made this in 30 minutes because it bothered me.
+
 Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
 Love being able to apply my knowledge so I dont need to wait for solutions :).
