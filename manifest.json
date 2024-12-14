@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Dark Mode Override",
+    "version": "1.0",
+    "description": "Force custom dark mode on YouTube.",
+    "permissions": ["storage"],
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "js": ["content.js"],
+            "css": ["styles.css"]
+        }
+    ],
+    "action": {
+        "default_title": "YouTube Dark Mode Override"
+    }
+}

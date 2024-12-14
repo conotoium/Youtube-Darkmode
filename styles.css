@@ -1,0 +1,20 @@
+/* Body background and text color */
+body {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+}
+
+/* Links */
+a {
+    color: #bb86fc !important;
+}
+
+/* Specific elements you want to style */
+#content, .ytp-chrome-top, .ytp-chrome-bottom {
+    background-color: #1e1e1e !important;
+}
+
+/* Override text and button colors */
+.yt-simple-endpoint, .style-scope {
+    color: #e0e0e0 !important;
+}
