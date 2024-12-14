@@ -21,11 +21,13 @@ Follow the steps from your own browser on how to install extentions from externa
 ## Installation Steps
 [Download](https://github.com/conotoium/Youtube-Darkmode/archive/refs/tags/Release1.zip) the .zip file
 <br>
+Unzip Folder
+<br>
 Go to browser extention page
 <br>
 Enable Developer mode.
 <br>
-Drag and drop .zip file in and follow broswer prompts
+Load unpacked extention
 
 
 ## Showcase
