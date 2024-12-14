@@ -19,7 +19,7 @@ The button doesnt work at the moment and I may remove it.
 Follow the steps from your own browser on how to install extentions from external sources, or follow my guide below.
 
 ## Installation Steps
-[Download](https://github.com/conotoium/Youtube-Darkmode/raw/refs/heads/main/YoutubeDarkmode.zip) the .zip file
+[Download](https://github.com/conotoium/Youtube-Darkmode/archive/refs/tags/Release1.zip) the .zip file
 <br>
 Go to browser extention page
 <br>
