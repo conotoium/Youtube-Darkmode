@@ -20,3 +20,14 @@ Go to browser extention page
 Enable Developer mode.
 <br>
 Drag and drop .zip file in and follow broswer prompts
+
+
+## Showcase
+### Before
+![image](https://github.com/user-attachments/assets/a08a72a3-16fc-4b95-9ba7-8aef85df5721)
+
+
+### After
+
+![image](https://github.com/user-attachments/assets/e2d08426-15cc-44db-8406-ba937296ec2e)
+
