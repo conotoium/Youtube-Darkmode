@@ -3,6 +3,10 @@ Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
 Love being able to apply my knowledge so I dont need to wait for solutions :).
 <br>
+Please note that I spun this up in around 30 minutes, so it isnt perfect
+<br>
+There are some noticable issues, but not big enough that they bother me to fix them.
+<br>
 <br>
 Follow the steps from your own browser on how to install extentions from external sources, or follow my guide below.
 
