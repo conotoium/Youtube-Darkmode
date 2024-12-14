@@ -1,8 +1,8 @@
 # Youtube Darkmode Fix
 
 > [!CAUTION]
-> The file seems to ping antivirus's. <br>
-> Source code is available in the directory. <br>
+> For some reason the code likes to get picked up as malicous. If you read it it is literally just a service worker that overides css in youtube. <br>
+> Source code is available in the directory, feel free to copy paste <br>
 > Always check code before using it on your system.
 
 Basically I got pissed at the issue and I decided to fix it because I can.
