@@ -1,1 +1,1 @@
-<a href="/YoutubeDarkmode.crx">Add to browser</a>
+<a href="/Youtube Darkmode.crx">Add to browser</a>
