@@ -1,2 +1,2 @@
 ## Install the Extension
-[Download the extension (.crx)](https://raw.githubusercontent.com/username/repository/branch/extension.crx)
+[Download the extension (.crx)](https://github.com/conotoium/Youtube-Darkmode/raw/refs/heads/main/Youtube%20Darkmode.crx)
