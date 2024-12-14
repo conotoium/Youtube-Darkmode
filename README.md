@@ -1,4 +1,8 @@
 # Youtube Darkmode Fix
+
+> [!CAUTION]
+> This has been temporarily removed while I figure out why the file is pinging my antivirus
+
 Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
 Love being able to apply my knowledge so I dont need to wait for solutions :).
@@ -11,9 +15,6 @@ The button doesnt work at the moment and I may remove it.
 <br>
 <br>
 Follow the steps from your own browser on how to install extentions from external sources, or follow my guide below.
-
-! Important
-This has been temporarily removed while I figure out why the file is pinging my antivirus
 
 ## Installation Steps
 [Download](https://github.com/conotoium/Youtube-Darkmode/raw/refs/heads/main/YoutubeDarkmode.zip) the .zip file
