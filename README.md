@@ -1,7 +1,9 @@
 # Youtube Darkmode Fix
 
 > [!CAUTION]
-> This has been temporarily removed while I figure out why the file is pinging my antivirus
+> The file seems to ping antivirus's.
+> Source code is available in the directory.
+> Always check code before using it on your system.
 
 Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
