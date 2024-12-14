@@ -1,2 +1,5 @@
 ## Install the Extension
-[Download the extension (.crx)](https://github.com/conotoium/Youtube-Darkmode/raw/refs/heads/main/Youtube%20Darkmode.crx)
+Download the .zip file
+Go to browser extention page
+Enable Developer mode.
+Drag and drop .zip file in and follow broswer prompts
