@@ -44,3 +44,8 @@ Load unpacked extention
 
 ![image](https://github.com/user-attachments/assets/e2d08426-15cc-44db-8406-ba937296ec2e)
 
+
+### Links
+[<a href="[https://ko-fi.com/contonium365]">Website</a>]((https://ko-fi.com/contonium365/))
+[<a href="https://ko-fi.com/contonium365">Website</a>](https://conotoium.github.io/home/)
+
