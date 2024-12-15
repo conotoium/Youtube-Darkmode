@@ -8,6 +8,7 @@
 > [!NOTE]
 > This may make youtube look slightly weird, But Im just here to fix the main issue.<br>
 > I made this in 30 minutes because it bothered me.
+> This is designed for PC browsers
 
 Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
