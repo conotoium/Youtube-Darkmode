@@ -28,7 +28,7 @@ Follow the steps from your own browser on how to install extentions from externa
 <br>
 Unzip Folder
 <br>
-Go to browser extention page
+Go to browser extension page- Generally something like <a href="chrome://extensions">
 <br>
 Enable Developer mode.
 <br>
