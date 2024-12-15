@@ -47,7 +47,7 @@ Load unpacked extention
 
 ### Links
 <br>
-[(https://ko-fi.com/contonium365/)](https://ko-fi.com/contonium365/)
+[https://ko-fi.com/contonium365/]
 <br>
-[<a href="https://ko-fi.com/contonium365">Website</a>](/)](https://conotoium.github.io/home)
+[https://conotoium.github.io/home]
 
