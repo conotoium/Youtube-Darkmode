@@ -1,9 +1,5 @@
 # Youtube Darkmode Fix
 
-> [!CAUTION]
-> Source code is available in the directory, feel free to copy paste <br>
-> Always check code before using it on your system.
-
 > [!NOTE]
 > This may make youtube look slightly weird, But Im just here to fix the main issue.<br>
 > I made this in 30 minutes because it bothered me.<br>
