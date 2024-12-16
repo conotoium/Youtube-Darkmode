@@ -8,6 +8,7 @@
 > This may make youtube look slightly weird, But Im just here to fix the main issue.<br>
 > I made this in 30 minutes because it bothered me.<br>
 > This is designed for PC browsers
+> An registered copy as a firefox addon is available- https://addons.mozilla.org/en-US/firefox/addon/youtube-dark-mode-override/ 
 
 Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
@@ -23,6 +24,8 @@ The button doesnt work at the moment and I may remove it.
 Follow the steps from your own browser on how to install extentions from external sources, or follow my guide below.
 
 ## Installation Steps
+
+### General Guide
 [Download](https://github.com/conotoium/Youtube-Darkmode/archive/refs/tags/Release1.zip) the .zip file
 <br>
 Unzip Folder
@@ -33,6 +36,9 @@ Enable Developer mode.
 <br>
 Load unpacked extention
 
+### Firefox
+Go to
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-dark-mode-override/]
 
 ## Showcase
 ### Before
