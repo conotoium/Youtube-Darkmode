@@ -7,8 +7,8 @@
 > [!NOTE]
 > This may make youtube look slightly weird, But Im just here to fix the main issue.<br>
 > I made this in 30 minutes because it bothered me.<br>
-> This is designed for PC browsers
-> An registered copy as a firefox addon is available- https://addons.mozilla.org/en-US/firefox/addon/youtube-dark-mode-override/ 
+> This is designed for PC browsers<br>
+> A registered copy as a firefox addon is available- https://addons.mozilla.org/en-US/firefox/addon/youtube-dark-mode-override/ 
 
 Basically I got pissed at the issue and I decided to fix it because I can.
 <br>
