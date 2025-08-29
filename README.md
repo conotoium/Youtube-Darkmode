@@ -1,5 +1,9 @@
 # Youtube Darkmode Fix
 
+> [!CAUTION]
+> This Repository is no longer maintained, and there is no gaurentee it will still work. Use at your own risk.
+
+
 > [!NOTE]
 > This may make youtube look slightly weird, But Im just here to fix the main issue.<br>
 > I made this in 30 minutes because it bothered me.<br>
